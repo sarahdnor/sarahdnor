@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Sarah 👋
 
-<!--
-**sarahdnor/sarahdnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior at Northwestern University studying International Studies & Social Policy and Data Science.
 
-Here are some ideas to get you started:
+**I use data to inform development policy, with experience in:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data analysis (R, Stata)
+- Survey data & RCTs (PSPS, DEVidence, GPRL)
+- Data visualization and communication
+
+- Currently analyzing PSPS data to develop clear, accessible fact sheets that communicate key insights for community dissemination.
+
+**🔍 Current interests**
+
+- Evidence-based policy
+- Survey data analysis
+
+How to reach me: sarahnorman2026@u.northwestern.edu
+
+
